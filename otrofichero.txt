@@ -1,0 +1,3 @@
+si no está traceado no cambia nada, 
+pero si ya se ha traceado (aunque no se haya hecho commit)
+al guardarse aparecerá con 'M'
